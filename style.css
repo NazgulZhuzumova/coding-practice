@@ -1,0 +1,27 @@
+h1,h2,h3{
+    color: red;
+    font-family: fantasy;
+}
+p {
+font-family: fantasy;
+}
+body {
+    background-color: rgb(253, 224, 229);
+}
+.input name{
+    margin: 20x;
+    padding: 4px
+}
+img {
+    width: 400px;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 50%;
+    display: flex;
+    image-resolution: inherit;
+}
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
